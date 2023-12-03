@@ -2,7 +2,7 @@
 LangChain for LLM Application Development Course by DeepLearning.AI
 The course consists of several chapters. 
 
-<ul>
+<ol>
   <li>
     Introduction 
   </li>
@@ -27,6 +27,6 @@ The course consists of several chapters.
   <li>
     Conclusion
   </li>
-</ul>
+</ol>
 
-I will be sharing all the course code files and learning material
+I will be sharing all the course code files and learning material.
